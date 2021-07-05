@@ -1,1 +1,1 @@
-# 60 days of Python
+# 45 days of Python
