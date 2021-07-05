@@ -1,1 +1,1 @@
-# 60 days python tutorial
+# 60 days of Python
